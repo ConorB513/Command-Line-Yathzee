@@ -15,7 +15,7 @@ Java, User input
 
 ## Acknowledgments
 
-* This project was given as an assignment for my program design Class (CPSC 1150- - Langara College)
+* This project was given as an assignment for my program design Class (CPSC 1150 - Langara)
 * Arrays help: https://www.geeksforgeeks.org/arrays-in-java/
 
 
